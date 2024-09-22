@@ -22,14 +22,13 @@ Part number will indicate that I have ordered a BMS with 1A active balancer, abl
 Due to double terminals - the BMS that has arrived, looks more like a 200A version. Not an issue but wondering why. Any ideas?
 
 ![image](https://github.com/user-attachments/assets/ef5f336a-eea6-4152-a099-af86856c2190)
+![image](https://github.com/user-attachments/assets/a8377959-53c6-4d0a-834f-c1c5c5a8d9de)
 
-
-
+Seen
 ![image](https://github.com/user-attachments/assets/3ec713e4-c439-4e01-a6d0-f69224180792)
 
 
-![image](https://github.com/user-attachments/assets/a8377959-53c6-4d0a-834f-c1c5c5a8d9de)
-
+# Inside JK-B1A8S10P
 ![image](https://github.com/user-attachments/assets/63eb3efc-e151-4718-a47c-49acfb87fb4f)
 
 ![image](https://github.com/user-attachments/assets/790f5275-a680-4db1-bfe9-0a9939f382f8)
