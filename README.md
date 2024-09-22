@@ -14,7 +14,6 @@ I have placed an order with AliExpress for JK-B1A8S10P - https://www.aliexpress.
 Assumption was based on the item title - **jikong bms JK-B2A8S20P CANBUS 100A 200A 300A 4S 5S 6S 7S 8S 12V 24V battery with 1A 2A active balanced heating Li-ion LiFePO4 Lt**,
 item description - **Gutter connection: RS485/Blue tooth** and Product Specification table below stating "Other Interfaces (Default) RS485
 
-![image](https://github.com/user-attachments/assets/c98d51e2-a686-4e65-97c3-de7affd65075)
 ![image](https://github.com/user-attachments/assets/f2f9259b-223b-409a-9618-dacba3d65480)
 
 
