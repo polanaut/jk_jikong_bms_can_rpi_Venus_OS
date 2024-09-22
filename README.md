@@ -21,7 +21,7 @@ Part number will indicate that I have ordered a BMS with 1A active balancer, abl
 
 Due to double terminals - the BMS that has arrived, looks more like a 200A version. Not an issue but wondering why. Any ideas?
 
-<img scr="![image](https://github.com/user-attachments/assets/ef5f336a-eea6-4152-a099-af86856c2190)" width=50% height=50%>
+![image](https://github.com/user-attachments/assets/ef5f336a-eea6-4152-a099-af86856c2190)
 ![image](https://github.com/user-attachments/assets/a8377959-53c6-4d0a-834f-c1c5c5a8d9de)
 
 Seen
