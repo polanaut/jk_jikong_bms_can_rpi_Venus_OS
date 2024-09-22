@@ -23,10 +23,6 @@ Due to double terminals - the BMS that has arrived, looks more like a 200A versi
 ![image](https://github.com/user-attachments/assets/db4a18ea-6d41-441d-a232-b5fca7df819d)
 
 
-Seen
-![image](https://github.com/user-attachments/assets/3ec713e4-c439-4e01-a6d0-f69224180792)
-
-
 # Inside JK-B1A8S10P
 ![image](https://github.com/user-attachments/assets/63eb3efc-e151-4718-a47c-49acfb87fb4f)
 
