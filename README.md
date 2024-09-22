@@ -23,12 +23,17 @@ Due to double terminals - the BMS that has arrived, looks more like a 200A versi
 
 ![image](https://github.com/user-attachments/assets/ef5f336a-eea6-4152-a099-af86856c2190)
 
+
+
 ![image](https://github.com/user-attachments/assets/3ec713e4-c439-4e01-a6d0-f69224180792)
 
 
 ![image](https://github.com/user-attachments/assets/a8377959-53c6-4d0a-834f-c1c5c5a8d9de)
+
 ![image](https://github.com/user-attachments/assets/63eb3efc-e151-4718-a47c-49acfb87fb4f)
+
 ![image](https://github.com/user-attachments/assets/790f5275-a680-4db1-bfe9-0a9939f382f8)
+
 ![image](https://github.com/user-attachments/assets/25e9f17d-9d65-4be4-a38d-ec9aba02aa55)
 
 ![image](https://github.com/user-attachments/assets/0a451bd9-3e53-4c0b-9723-36e4c286d4a9)
