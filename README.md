@@ -7,4 +7,7 @@ The idea is to have the Victron MPPT, DC-DC Charger and DIY LiFePo4 battery conn
 
 There are some learnings that I wanted to share.
 
-This article will focus on the JK BMS to 
+Like many others, I am confused about availability of RS485 and/or CAN on JK BMS. 
+
+I have placed an order with AliExpress for JK-B1A8S10P - https://www.aliexpress.com/item/1005007198911778.html with the assumption that BMS will support both RS485 and CAN.
+
