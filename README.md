@@ -15,6 +15,9 @@ Assumption was based on the item title - **jikong bms JK-B2A8S20P CANBUS 100A 20
 item description - **Gutter connection: RS485/Blue tooth** and Product Specification table below stating "Other Interfaces (Default) RS485
 
 ![image](https://github.com/user-attachments/assets/c98d51e2-a686-4e65-97c3-de7affd65075)
+![image](https://github.com/user-attachments/assets/f2f9259b-223b-409a-9618-dacba3d65480)
+
+
 
 ![image](https://github.com/user-attachments/assets/bc8afed4-5195-4f2b-ae74-c8bf95544994)
 
