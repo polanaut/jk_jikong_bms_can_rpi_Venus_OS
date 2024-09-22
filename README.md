@@ -12,9 +12,17 @@ Like many others, I am confused about availability of RS485 and/or CAN on JK BMS
 I have placed an order with AliExpress for **JK-B1A8S10P** - https://www.aliexpress.com/item/1005007198911778.html with the **assumption** that the **BMS will support both RS485 and CAN**.
 
 Assumption was based on the item title - **jikong bms JK-B2A8S20P CANBUS 100A 200A 300A 4S 5S 6S 7S 8S 12V 24V battery with 1A 2A active balanced heating Li-ion LiFePO4 Lt**,
-item description - **Gutter connection: RS485/Blue tooth** and Product Specification table below stating "Other Interfaces (Default) - RS485"
+item description - **Gutter connection: RS485/Blue tooth** and Product Specification table below stating **"Other Interfaces (Default) - RS485"**
 
 ![image](https://github.com/user-attachments/assets/f2f9259b-223b-409a-9618-dacba3d65480)
+
+![image](https://github.com/user-attachments/assets/ef5f336a-eea6-4152-a099-af86856c2190)
+![image](https://github.com/user-attachments/assets/a8377959-53c6-4d0a-834f-c1c5c5a8d9de)
+![image](https://github.com/user-attachments/assets/63eb3efc-e151-4718-a47c-49acfb87fb4f)
+![image](https://github.com/user-attachments/assets/790f5275-a680-4db1-bfe9-0a9939f382f8)
+![image](https://github.com/user-attachments/assets/25e9f17d-9d65-4be4-a38d-ec9aba02aa55)
+
+![image](https://github.com/user-attachments/assets/0a451bd9-3e53-4c0b-9723-36e4c286d4a9)
 
 
 
