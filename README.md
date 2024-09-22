@@ -20,22 +20,27 @@ item description - **Gutter connection: RS485/Blue tooth** and Product Specifica
 Part number will indicate that I have ordered a BMS with 1A active balancer, able to cope with 100A continued current.
 
 Due to double terminals - the BMS that has arrived, looks more like a 200A version. Not an issue but wondering why. Any ideas?
+
 ![image](https://github.com/user-attachments/assets/db4a18ea-6d41-441d-a232-b5fca7df819d)
 
-
-# Inside JK-B1A8S10P
-![image](https://github.com/user-attachments/assets/63eb3efc-e151-4718-a47c-49acfb87fb4f)
-
-![image](https://github.com/user-attachments/assets/790f5275-a680-4db1-bfe9-0a9939f382f8)
+# Hardware and Software Version
+Hardware is **V11A** and Software is **V11.54**. Not sure what Version the **V4.27.0** refers to. Any ideas?
 
 ![image](https://github.com/user-attachments/assets/25e9f17d-9d65-4be4-a38d-ec9aba02aa55)
 
-![image](https://github.com/user-attachments/assets/0a451bd9-3e53-4c0b-9723-36e4c286d4a9)
 
+# Ports
+Again, port layout more like on a 200A model.
 
+![image](https://github.com/user-attachments/assets/3c86af9c-b15e-4a67-bf2e-bca7ed523263)
 
-![image](https://github.com/user-attachments/assets/bc8afed4-5195-4f2b-ae74-c8bf95544994)
+# Inside JK-B1A8S10P
+There is no mention of CAM on my BMS.
 
-![image](https://github.com/user-attachments/assets/fef9fa8e-5efd-4e2a-94c3-8c6ea6802012)
+I was hoping that looking inside will give me some clue what chip is next to the GPS and RS485 port.
+
+I could not see any markings on the chips.
+
+![image](https://github.com/user-attachments/assets/1ba0488d-633d-43c0-882c-a21bdfa206db)
 
 
