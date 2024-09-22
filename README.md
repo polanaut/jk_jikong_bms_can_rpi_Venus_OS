@@ -47,6 +47,16 @@ I could not see any markings on the chips.
 # Testing
 I am planning to connect the MPPT, DC-DC Charger and BMS to the rpi via the Duppa Isolated 4 port USB to TTL UART adapter mentioned here: https://github.com/Louisvdw/dbus-serialbattery/discussions/308 
 
+With multimeter - I have measured the voltages on the GPS port (Mini Micro 1.25mm JST T-1 4-Pin Connector)
+
+Pin 1 +12V
+
+Pin 2 +3.28V
+
+Pin 3 +3.28V
+
+Pin 4 GND
+
 **Test 1**
 
 I have connected the Jikong RS485 Converter to GPS port on the BMS at one end, and to A and B on a USB To RS485 adapter at the other end. 
