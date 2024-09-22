@@ -1,5 +1,6 @@
-# **Connecting jikong bms JK-B1A8S10P CANBUS to raspberry pi (Venus OS)**
+**Connecting Jikong BMS JK-B1A8S10P CANBUS to Raspberry pi (Venus OS)**
 
+# Story
 I am in the process of installing a leisure batter in our van. 
 
 The idea is to have the Victron MPPT, DC-DC Charger and DIY LiFePo4 battery connected to rasperry pi with Venus OS, to allow for system monitoring via the VRM Portal.
