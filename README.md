@@ -16,6 +16,7 @@ item description - **Gutter connection: RS485/Blue tooth** and Product Specifica
 
 ![image](https://github.com/user-attachments/assets/f2f9259b-223b-409a-9618-dacba3d65480)
 
+# BMS Arrived
 I belive to have ordered a BMS with 1A active balancer, able to cope with 100A continued current.
 The BMS that has arrived, looks more like a 200A version.
 
