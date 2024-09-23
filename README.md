@@ -35,6 +35,8 @@ Again, port layout more like on a 200A model.
 ![image](https://github.com/user-attachments/assets/1d003810-e3b5-42d4-8272-bade289620b6)
 
 
+
+https://opendtu-onbattery.net/hardware/jkbms/models_b/#rs485-ttl-uart-jack-pin-out
 ![image](https://github.com/user-attachments/assets/55bb07f1-fa27-4537-bb41-8c78a8bd6463)
 
 
